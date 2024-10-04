@@ -1,4 +1,4 @@
-# JWT Authenticaition Flow Full Stack Project
+# JWT Authentication Flow Full Stack Project
 
 Kullanıcı girişine sahip bir sisteminin JWT(Json Web Token) ile işleyiş senaryosunu anlatan temel bir proje. Bu projenin amacı hem client hemde server tarafında güvenli network işlemlerini sağlamaktır.
 
